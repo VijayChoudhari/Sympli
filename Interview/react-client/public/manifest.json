@@ -1,0 +1,8 @@
+{
+  "short_name": "Sympli Interview",
+  "name": "Sympli Web Search App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
